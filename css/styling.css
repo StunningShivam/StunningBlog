@@ -1,0 +1,29 @@
+.SHIVAM{
+  background-color:#ffbcbc;
+}
+.SH{
+  color: #204051;
+}
+.S{
+  color: #2c003e;
+}
+h3{
+  color: #d8345f;
+}
+ol{
+  color: grey;
+}
+hr{
+
+  border-style:dotted none none;
+  border-color: grey;
+  border-width: 5px;
+
+  width:10%;
+}
+.MUKESH{
+  background-color: #30475e;
+}
+.NIRMALA{
+  background-color: #d8345f;
+}
